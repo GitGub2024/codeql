@@ -3,7 +3,7 @@
 /go/ @github/codeql-go
 /java/ @github/codeql-java
 /javascript/ @github/codeql-javascript
-/python/ @github/codeql-python
+/python/ @github/coeql-python
 /ruby/ @github/codeql-ruby
 /swift/ @github/codeql-swift
 /misc/codegen/ @github/codeql-swift
@@ -42,6 +42,9 @@ MODULE.bazel @github/codeql-ci-reviewers
 /.github/workflows/ql-for-ql-* @github/codeql-ql-for-ql-reviewers
 /.github/workflows/ruby-* @github/codeql-ruby
 /.github/workflows/swift.yml @github/codeql-swift
+test 
+rhbhjv
+mmm
 
 # Misc
 /misc/scripts/accept-expected-changes-from-ci.py @RasmusWL
